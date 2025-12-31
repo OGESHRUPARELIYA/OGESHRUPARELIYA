@@ -70,5 +70,5 @@ I enjoy working with data and transforming raw numbers into insights that actual
 ---
 
 <p align="center">
-  <i>“Mazboot basics hi acchi analysis ki neev hote hain.”</i>
+  <b><i>“Mazboot basics hi acchi analysis ki neev hote hain.”</i></b>
 </p>
