@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ogesh Rupareliya</h1>
 
 <p align="center">
-  <img src="profile.gif" width="380" alt="Profile animation"/>
+  <img src="Untitledvideo-MadewithClipchamp-ezgif.com-video-to-gif-converter.gif" width="380" alt="Profile animation"/>
 </p>
 
 ---
