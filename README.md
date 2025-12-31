@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ogesh Rupareliya</h1>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="380" alt="Profile animation"/>
-  <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" width="380" alt="Profile animation"/>
-</p>
+
 ---
 
 ## 💫 About Me
@@ -70,4 +67,4 @@ I enjoy working with data and transforming raw numbers into insights that actual
 
 <p align="center">
   <b><i>“Mazboot basics hi acchi analysis ki neev hote hain.”</i></b>
-</p>  i want two ,one at left other at right below my name 
+</p> 
