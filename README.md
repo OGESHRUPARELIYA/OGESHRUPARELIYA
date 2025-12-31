@@ -62,7 +62,7 @@ I enjoy working with data and transforming raw numbers into insights that actual
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=OGESHRUPARELIYA&theme=dark"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=OGESHRUPARELIYA&theme=dark&layout=compact"/>
+  
 </p>
 
 ---
