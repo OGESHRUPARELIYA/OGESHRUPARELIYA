@@ -58,6 +58,7 @@ I enjoy working with data and transforming raw numbers into insights that actual
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OGESHRUPARELIYA&theme=dark&hide_border=false"/>
   <br/>
@@ -65,8 +66,9 @@ I enjoy working with data and transforming raw numbers into insights that actual
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGESHRUPARELIYA&theme=dark&hide_border=false&layout=compact"/>
 </p>
+
 ---
 
 <p align="center">
-  <i>“Pehle basics samjho, phir tools apne aap aa jaate hain.”</i>
+  <i>“Mazboot basics hi acchi analysis ki neev hote hain.”</i>
 </p>
