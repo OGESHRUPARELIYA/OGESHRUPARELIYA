@@ -52,14 +52,12 @@ I enjoy working with data and transforming raw numbers into insights that actual
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OGESHRUPARELIYA&theme=dark&hide_border=false"/>
   <br/>
@@ -67,7 +65,6 @@ I enjoy working with data and transforming raw numbers into insights that actual
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGESHRUPARELIYA&theme=dark&hide_border=false&layout=compact"/>
 </p>
-
 ---
 
 <p align="center">
