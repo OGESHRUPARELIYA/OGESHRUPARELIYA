@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ogesh Rupareliya</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="profile.gif" width="380" alt="Profile animation"/>
 </p>
 
 ---
@@ -12,12 +12,12 @@
 I enjoy working with data and transforming raw numbers into insights that actually mean something in the real world.
 
 🔍 I’m building a strong foundation in:
-- **Python** (NumPy, Pandas, Matplotlib, Seaborn) for data analysis & visualization  
+- **Python** (NumPy, Pandas, Matplotlib, Seaborn)  
 - **SQL** for querying and managing databases  
 - **Power BI** for interactive dashboards  
 - **Excel** for reporting and data organization  
 
-🎯 Currently, I’m focused on hands-on projects involving **data cleaning, visualization, and storytelling**, with the goal of becoming a confident and impactful data professional.
+🎯 Currently focused on hands-on projects involving **data cleaning, visualization, and storytelling**.
 
 🤝 Open to **internships, projects, and collaborations**.
 
@@ -51,8 +51,6 @@ I enjoy working with data and transforming raw numbers into insights that actual
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white"/>
 </p>
 
 ---
@@ -60,11 +58,11 @@ I enjoy working with data and transforming raw numbers into insights that actual
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OGESHRUPARELIYA&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OGESHRUPARELIYA&theme=dark"/>
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=OGESHRUPARELIYA&theme=dark&hide_border=false"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=OGESHRUPARELIYA&theme=dark"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGESHRUPARELIYA&theme=dark&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGESHRUPARELIYA&theme=dark&layout=compact"/>
 </p>
 
 ---
