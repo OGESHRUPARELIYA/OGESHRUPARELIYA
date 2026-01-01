@@ -2,30 +2,43 @@
 
 # Hi 👋, I'm **Ogesh Rupareliya**
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="320"/>
-
 </div>
 
 ---
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ## 🌟 About Me
 
-🎓 **Data Analyst in the making** at **Parul Institute of Engineering & Technology**  
-📊 Passionate about converting **raw data into meaningful stories**  
-🧠 Strong believer in **clean data = powerful insights**
+🎓 **Aspiring Data Analyst** currently studying at  
+**Parul Institute of Engineering & Technology**
 
-### 🔍 Currently Building Skills In:
-- 🐍 **Python** (NumPy, Pandas, Matplotlib, Seaborn)
-- 🗄️ **SQL** (MySQL, MS SQL Server)
-- 📈 **Power BI & Tableau**
-- 📑 **Excel** (Reporting & Analysis)
+📊 I enjoy working with data and transforming  
+**raw numbers into meaningful insights**
 
-🎯 Actively working on **real-world projects** involving:
-- Data Cleaning  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization & Storytelling  
+🧠 Strong believer in  
+**clean data = powerful analysis**
 
-🤝 **Open to internships, collaborations, and projects**
+### 🔍 Skills & Focus
+- 🐍 Python (NumPy, Pandas, Matplotlib, Seaborn)
+- 🗄️ SQL (MySQL, MS SQL Server)
+- 📈 Power BI & Tableau
+- 📑 Excel (Reporting & Analysis)
+
+🎯 Hands-on experience in **data cleaning, EDA, and visualization**  
+🤝 Open to **internships, projects, and collaborations**
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="280"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -49,18 +62,17 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MS SQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/>
 
 </div>
 
@@ -70,7 +82,7 @@
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=OGESHRUPARELIYA&theme=tokyonight" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=OGESHRUPARELIYA&theme=tokyonight"/>
 
 </div>
 
