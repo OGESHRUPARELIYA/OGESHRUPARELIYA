@@ -6,9 +6,9 @@
 
 ---
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top" align="left">
 
 ## 🌟 About Me
 
@@ -32,9 +32,9 @@
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td width="30%" align="right" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="280"/>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="360"/>
 
 </td>
 </tr>
