@@ -78,16 +78,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=OGESHRUPARELIYA&theme=tokyonight"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 *“Mazboot basics hi acchi analysis ki neev hote hain.”*
