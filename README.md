@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://x.com/@OgeshRupar21214">
-    <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
 
