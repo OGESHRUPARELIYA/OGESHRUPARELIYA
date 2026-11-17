@@ -12,14 +12,17 @@ I enjoy exploring datasets, building interactive dashboards, and transforming ra
 
 <br>
 
+
 <a href="https://www.linkedin.com/in/ogesh-rupareliya-1a998b374/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:10engogeshrupareliya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/OGESHRUPARELIYA">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
