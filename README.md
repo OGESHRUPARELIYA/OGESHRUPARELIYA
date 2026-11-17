@@ -75,27 +75,43 @@ me = DataAnalyst()
 
 ### Programming & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="Microsoft SQL Server"/>
 </p>
 
 ### Python Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
 </p>
 
 ### Business Intelligence & Visualization
 
-<p>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel"/>
 </p>
 
 ### Cloud & Data Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,snowflake" />
+<p align="left">
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" alt="Snowflake"/>
 </p>
+
+
 
 ---
 
