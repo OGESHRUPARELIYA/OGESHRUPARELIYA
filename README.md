@@ -114,9 +114,7 @@ An interactive HR analytics dashboard designed to analyze employee attendance, w
 
 <div align="center">
 
-<!-- Replace YOUR_REPOSITORY with your actual repository name -->
-
-<a href="https://github.com/OGESHRUPARELIYA/YOUR_REPOSITORY">
+<a href="https://github.com/OGESHRUPARELIYA/HR-Analytics-PowerBi">
   <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
