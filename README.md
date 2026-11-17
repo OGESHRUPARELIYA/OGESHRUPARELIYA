@@ -140,13 +140,13 @@ An interactive HR analytics dashboard designed to analyze employee attendance, w
 <td width="32%" align="center" valign="middle">
 
 <a href="Screenshots/Page%201.png">
-  <img src="Screenshots/dashboard_overview.png" width="250" alt="HR Analytics Dashboard"/>
+  <img src="Screenshots/Page%201.png" width="250" alt="HR Analytics Dashboard"/>
 </a>
 
 <br><br>
 
 <a href="Screenshots/Page%202.png">
-  <img src="Screenshots/employee_360_analysis.png" width="250" alt="Employee 360 Analysis"/>
+  <img src="Screenshots/Page%202.png" width="250" alt="Employee 360 Analysis"/>
 </a>
 
 </td>
