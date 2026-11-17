@@ -12,7 +12,7 @@ I enjoy exploring datasets, building interactive dashboards, and transforming ra
 
 <br>
 
-  <table>
+  <table border="0" cellpadding="0" cellspacing="0" style="border:none;">
     <tr>
       <td>
         <a href="https://www.linkedin.com/in/ogesh-rupareliya-1a998b374/" style="text-decoration:none;">
