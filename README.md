@@ -157,14 +157,15 @@ Issued by: Udemy
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=OGESHRUPARELIYA&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=OGESHRUPARELIYA&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGESHRUPARELIYA&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGESHRUPARELIYA&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="95%" src="https://streak-stats.demolab.com?user=OGESHRUPARELIYA&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=OGESHRUPARELIYA&theme=tokyonight&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
