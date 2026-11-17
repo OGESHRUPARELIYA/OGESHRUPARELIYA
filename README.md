@@ -110,12 +110,15 @@ me = DataAnalyst()
 
 ## 🚀 Featured Project
 
+<table border="0">
+<tr>
+<td width="68%" valign="top">
+
 ### 📊 HR Analytics Dashboard | Power BI
 
 An interactive HR analytics dashboard designed to analyze employee attendance, work-from-home patterns, and leave utilization.
 
 **Key Features**
-
 - Workforce attendance KPIs.
 - Attendance rate and present-day analysis.
 - Work-from-home and leave tracking.
@@ -126,15 +129,30 @@ An interactive HR analytics dashboard designed to analyze employee attendance, w
 
 **Technologies:** Power BI · DAX · Power Query · Excel
 
-<div align="center">
+<br>
 
-<a href="https://github.com/OGESHRUPARELIYA/HR-Analytics-PowerBi">
-  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/OGESHRUPARELIYA/YOUR_REPOSITORY">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</td>
 
----
+<td width="32%" align="center" valign="middle">
+
+<a href="Screenshots/dashboard_overview.png">
+  <img src="Screenshots/dashboard_overview.png" width="250" alt="HR Analytics Dashboard"/>
+</a>
+
+<br><br>
+
+<a href="Screenshots/employee_360_analysis.png">
+  <img src="Screenshots/employee_360_analysis.png" width="250" alt="Employee 360 Analysis"/>
+</a>
+
+</td>
+</tr>
+</table>
+
 
 ## 🎓 Education
 
