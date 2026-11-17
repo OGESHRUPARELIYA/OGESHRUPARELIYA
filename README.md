@@ -73,35 +73,28 @@ me = DataAnalyst()
 
 ## 🛠️ Technology Stack
 
-### Programming & Data Analysis
+### Programming & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
-  <img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### Python Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
 
 ### Business Intelligence & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau" />
 </p>
 
 ### Cloud & Data Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=aws,snowflake" />
 </p>
 
 ---
