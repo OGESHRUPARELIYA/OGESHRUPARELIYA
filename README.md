@@ -75,43 +75,36 @@ me = DataAnalyst()
 
 ### Programming & Databases
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" alt="Microsoft SQL Server"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### Python Libraries
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib"/>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 </p>
 
 ### Business Intelligence & Visualization
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" alt="Power BI"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tableau/E97627" width="48" height="48" alt="Tableau"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="48" height="48" alt="Excel"/>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ### Cloud & Data Platforms
 
-<p align="left">
-  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="48" height="48" alt="AWS"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" width="48" height="48" alt="Snowflake"/>
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </p>
-
-
+  
 
 ---
 
